@@ -4,3 +4,7 @@ Télescope NEWton PIloter via Raspberry pour auto acquérir des images d'objets 
   https://www.unistellar.com/
 * Inspirer du Projet Pilomar<br>
   https://www.instructables.com/Pi-lomar-3D-Printed-Working-Miniature-Observatory-/
+* inspirer du Projet UltraScope<br>
+  https://www.openspaceagency.com/ultrascope
+
+<nl>
